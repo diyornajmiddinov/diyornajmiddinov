@@ -1,5 +1,3 @@
-### <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
-
 ### Hi, I'm Diyorbek Najmiddinov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 🔥 I make videos on YouTube about software development. <br />
@@ -11,6 +9,8 @@
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkvNQZbrAy_PkiJfQK1OTaw?style=for-the-badge">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCkvNQZbrAy_PkiJfQK1OTaw?style=for-the-badge">
 </a>
+
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
 
 <br />
 
