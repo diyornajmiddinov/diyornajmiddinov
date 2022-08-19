@@ -1,5 +1,4 @@
-### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
 
 ### Hi, I'm Diyorbek Najmiddinov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
