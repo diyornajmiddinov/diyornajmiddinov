@@ -9,8 +9,8 @@
 
 <a href="https://www.youtube.com/channel/UCkvNQZbrAy_PkiJfQK1OTaw" target="_blank">
     <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkvNQZbrAy_PkiJfQK1OTaw?style=for-the-badge">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCkvNQZbrAy_PkiJfQK1OTaw?style=for-the-badge">
 </a>
 
 <br />
