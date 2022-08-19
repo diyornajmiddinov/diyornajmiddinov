@@ -17,7 +17,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" width="30px"></code>
+<code><img src="https://mpng.subpng.com/20180422/gje/kisspng-java-servlet-computer-icons-programming-language-java-5adce132e29be1.3147376615244250109282.jpg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="30px"></code>
 <code><img src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"></code>
