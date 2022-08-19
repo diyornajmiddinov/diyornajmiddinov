@@ -11,7 +11,11 @@
 </a>
 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
+
+
 <br />
+
+
 ### Languages and tools I work with:
 <code><img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" width="32px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="30px"></code>
