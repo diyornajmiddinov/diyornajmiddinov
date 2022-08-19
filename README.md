@@ -17,12 +17,12 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="35px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="30px"></code>
 <code><img src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"></code>
 <code><img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" width="30px"></code>
-<code><img src="https://findicons.com/files/icons/2420/coded/512/sql.png" width="40px"></code>
+<code><img src="https://findicons.com/files/icons/2420/coded/512/sql.png" width="35px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
