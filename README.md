@@ -23,10 +23,6 @@
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"></code>
 <code><img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" width="30px"></code>
 <code><img src="https://findicons.com/files/icons/2420/coded/512/sql.png" width="35px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
 
 <br />
 
