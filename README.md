@@ -17,7 +17,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="30px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="40px"></code>
 <code><img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
