@@ -22,7 +22,6 @@
 <code><img src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"></code>
 <code><img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" width="30px"></code>
-<code><img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="35px"></code>
 
 <br />
 
