@@ -11,8 +11,6 @@
 </a>
 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyornajmiddinov&label=Profile%20views&color=0e75b6&style=flat" alt="diyornajmiddinov" /> </p>
-
-
 <br />
 
 
